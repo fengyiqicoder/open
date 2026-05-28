@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Privacy Screen — Support</title>
+<style>
+  :root {
+    --bg: #f7f7fb;
+    --card: #ffffff;
+    --text: #1a1d29;
+    --muted: #6c7280;
+    --accent: #6e56cf;
+    --border: #e5e7eb;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #14141d;
+      --card: #1c1e2a;
+      --text: #f4f4f7;
+      --muted: #9ca3af;
+      --accent: #a78bfa;
+      --border: #2a2d3a;
+    }
+  }
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0; padding: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+  .container { max-width: 760px; margin: 0 auto; padding: 48px 24px 96px; }
+  header { margin-bottom: 36px; }
+  .badge {
+    display: inline-block; padding: 4px 12px;
+    background: var(--accent); color: white;
+    border-radius: 999px; font-size: 12px; font-weight: 600;
+    letter-spacing: 0.5px; text-transform: uppercase;
+    margin-bottom: 16px;
+  }
+  h1 { font-size: 36px; font-weight: 700; margin: 0 0 8px; letter-spacing: -0.5px; }
+  .subtitle { color: var(--muted); font-size: 18px; margin: 0; }
+  h2 {
+    font-size: 24px; font-weight: 600; margin: 48px 0 16px;
+    padding-top: 24px; border-top: 1px solid var(--border);
+    letter-spacing: -0.3px;
+  }
+  h3 { font-size: 18px; font-weight: 600; margin: 28px 0 10px; }
+  p, ol, ul { margin: 0 0 14px; }
+  ol, ul { padding-left: 22px; }
+  li { margin-bottom: 6px; }
+  strong { font-weight: 600; }
+  .faq { background: var(--card); border-radius: 12px; padding: 4px 24px; border: 1px solid var(--border); }
+  .faq h3 { color: var(--accent); }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .contact {
+    background: var(--card); border: 1px solid var(--border);
+    border-radius: 12px; padding: 24px;
+  }
+  .contact-row {
+    display: flex; align-items: center; gap: 12px;
+    padding: 12px 0; border-bottom: 1px solid var(--border);
+  }
+  .contact-row:last-child { border-bottom: none; }
+  .contact-label { color: var(--muted); font-size: 14px; min-width: 130px; }
+  footer {
+    margin-top: 64px; padding-top: 24px;
+    border-top: 1px solid var(--border);
+    color: var(--muted); font-size: 14px; text-align: center;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+<header>
+  <div class="badge">Support</div>
+  <h1>Privacy Screen</h1>
+  <p class="subtitle">Instantly hide your iPhone screen with a single tap.</p>
+</header>
+
+<h2>What it does</h2>
+<p>
+  Privacy Screen lets you instantly swap your iPhone display for a preset cover
+  image with a single tap. The original content goes to the background — anyone
+  glancing over sees only the cover. Tap once more (or tap the image) to return.
+</p>
+<p>
+  Use it when you're reading sensitive emails, viewing private notes, checking
+  your bank app, or looking at personal photos in a public place.
+</p>
+
+<h2>Quick Start</h2>
+<ol>
+  <li><strong>Pick a cover image</strong>: open the app → choose one of the 20+ presets, or tap <strong>Use a Photo</strong> to pick one from your Photos library.</li>
+  <li><strong>Set up a trigger</strong>: the app onboarding walks you through three options (Action Button, Back Tap, Control Center). Pick whichever fits your iPhone.</li>
+  <li><strong>Activate any time</strong>: trigger from the lock screen, from another app, or from inside Privacy Screen itself. The cover appears instantly.</li>
+  <li><strong>Dismiss</strong>: tap the cover image, or hit your trigger again.</li>
+</ol>
+
+<h2>How to set up each trigger</h2>
+
+<h3>Action Button (iPhone 15 Pro and newer)</h3>
+<ol>
+  <li><strong>Settings → Action Button</strong></li>
+  <li>Swipe to <strong>Shortcut</strong></li>
+  <li>Tap <strong>Choose a Shortcut</strong></li>
+  <li>Pick <strong>Privacy Screen → Toggle Privacy Cover</strong></li>
+  <li>Done. Long-press the side Action Button to activate.</li>
+</ol>
+
+<h3>Back Tap (any iPhone X or newer)</h3>
+<ol>
+  <li><strong>Settings → Accessibility → Touch → Back Tap</strong></li>
+  <li>Pick <strong>Double Tap</strong> or <strong>Triple Tap</strong></li>
+  <li>Scroll to the <strong>Shortcuts</strong> section</li>
+  <li>Pick <strong>Toggle Privacy Cover</strong></li>
+  <li>Done. Tap the back of your phone to activate.</li>
+</ol>
+
+<h3>Control Center (iOS 18 or later)</h3>
+<ol>
+  <li>Pull the Control Center down from the top-right.</li>
+  <li>Tap the <strong>+</strong> in the upper-left to enter edit mode.</li>
+  <li>Tap <strong>Add a Control</strong>, search <strong>Privacy Cover</strong>.</li>
+  <li>Drag it to the position you like, then exit edit mode.</li>
+  <li>Tap that control whenever you want to activate.</li>
+</ol>
+
+<h2>Frequently Asked Questions</h2>
+<div class="faq">
+
+<h3>Does the app use my camera?</h3>
+<p>No. Privacy Screen never requests camera, microphone, or contacts access. It only shows the cover image you picked.</p>
+
+<h3>Does it work in other apps?</h3>
+<p>When you trigger Privacy Screen from another app (Messages, Safari, etc.), the iPhone switches to Privacy Screen and shows your cover. The original app is in the background; anyone looking sees only the cover. Tap to switch back.</p>
+
+<h3>Can it hide content inside other apps without switching?</h3>
+<p>No. iOS does not allow any app to draw over another app. This is a system security restriction — every iOS privacy tool has the same limit. Switching to a cover view (what Privacy Screen does) is the only sanctioned workaround.</p>
+
+<h3>Does it drain my battery?</h3>
+<p>Effectively zero. Privacy Screen runs only when you trigger it. There is no background camera, no location tracking, no network activity.</p>
+
+<h3>Which iPhones is it compatible with?</h3>
+<ul>
+  <li>Core functionality (Back Tap + Control Center): any iPhone X or newer on iOS 17+</li>
+  <li>Action Button trigger: iPhone 15 Pro / Pro Max or newer</li>
+  <li>Control Center control: iOS 18 or later</li>
+</ul>
+
+<h3>Does it sync between devices?</h3>
+<p>Not currently. Each device stores its own cover image and trigger preferences locally. iCloud sync may come in a future update.</p>
+
+<h3>How do I change the cover image?</h3>
+<p>Open the app → tap the current cover or <strong>Browse Presets</strong> / <strong>Use a Photo</strong> → pick a new one. The new cover applies immediately.</p>
+
+<h3>How do I delete the app's data?</h3>
+<p>Just delete the app — iOS removes all local data automatically. There is no server-side data to clean up because there is no server.</p>
+
+<h3>Is there an Apple Watch version?</h3>
+<p>Not yet. Planned for a future update.</p>
+
+</div>
+
+<h2>Contact</h2>
+<div class="contact">
+  <div class="contact-row">
+    <div class="contact-label">Email</div>
+    <div><a href="mailto:fengyiqicoder@gmail.com">fengyiqicoder@gmail.com</a></div>
+  </div>
+  <div class="contact-row">
+    <div class="contact-label">Bug reports</div>
+    <div><a href="https://github.com/fengyiqicoder/appmatemax/issues">Open an issue on GitHub</a></div>
+  </div>
+  <div class="contact-row">
+    <div class="contact-label">In-app</div>
+    <div>Tap the gear icon → Send Feedback</div>
+  </div>
+</div>
+
+<footer>
+  © 2026 Lulusoft · Privacy Screen
+</footer>
+
+</div>
+</body>
+</html>

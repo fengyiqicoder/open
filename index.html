@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Lulusoft — App Support</title>
+<style>
+  :root {
+    --bg: #f7f7fb; --card: #fff; --text: #1a1d29; --muted: #6c7280;
+    --accent: #6e56cf; --border: #e5e7eb;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #14141d; --card: #1c1e2a; --text: #f4f4f7; --muted: #9ca3af; --accent: #a78bfa; --border: #2a2d3a; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; }
+  .container { max-width: 720px; margin: 0 auto; padding: 64px 24px; }
+  h1 { font-size: 36px; margin: 0 0 8px; letter-spacing: -0.5px; }
+  .subtitle { color: var(--muted); font-size: 18px; margin: 0 0 40px; }
+  .apps { display: grid; gap: 16px; }
+  .app { display: block; background: var(--card); border: 1px solid var(--border); border-radius: 14px; padding: 24px; text-decoration: none; color: inherit; transition: transform 0.15s, border-color 0.15s; }
+  .app:hover { transform: translateY(-2px); border-color: var(--accent); }
+  .app-name { font-size: 20px; font-weight: 600; margin: 0 0 4px; color: var(--accent); }
+  .app-desc { margin: 0; color: var(--muted); font-size: 15px; }
+  footer { margin-top: 64px; text-align: center; color: var(--muted); font-size: 14px; }
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>Lulusoft Support</h1>
+  <p class="subtitle">App support pages, FAQ, and contact info.</p>
+
+  <div class="apps">
+    <a class="app" href="privacyscreen/">
+      <h2 class="app-name">Privacy Screen</h2>
+      <p class="app-desc">Instantly hide your iPhone screen with a single tap. Cover for sensitive content in public.</p>
+    </a>
+    <a class="app" href="cycleai/">
+      <h2 class="app-name">Cycle AI Period &amp; PMS Tracker</h2>
+      <p class="app-desc">AI-powered period &amp; ovulation tracking. Privacy-first, no account needed.</p>
+    </a>
+    <a class="app" href="scicalc/">
+      <h2 class="app-name">Calculatrice Scientifique</h2>
+      <p class="app-desc">Scientific calculator with all TI-84 / Casio fx-991 features.</p>
+    </a>
+    <a class="app" href="massbandar/">
+      <h2 class="app-name">Digitales Maßband</h2>
+      <p class="app-desc">Precise AR ruler measurements on your iPhone.</p>
+    </a>
+    <a class="app" href="krokomierz/">
+      <h2 class="app-name">Krokomierz</h2>
+      <p class="app-desc">Accurate step counter with Apple Health integration.</p>
+    </a>
+  </div>
+
+  <footer>© 2026 Lulusoft</footer>
+</div>
+</body>
+</html>
