@@ -1,12 +1,12 @@
-# Privacy Policy — Window Manager
+# Privacy Policy — Lock Keyboard
 
-_Last updated: 2026-06-01_
+_Last updated: 2026-06-09_
 
-Window Manager ("we", "our", "us") respects your privacy. Window Manager is a Mac menu-bar tool that snaps windows into halves, quarters and thirds via clicks or keyboard shortcuts. This policy explains what data the app handles.
+Lock Keyboard ("we", "our", "us") respects your privacy. Lock Keyboard is a Mac app that locks your keyboard with one tap so you can wipe it clean — without typing gibberish or locking your whole screen. This policy explains what data the app handles.
 
 ## 1. Data we collect
 
-**None.** Window Manager does not collect, transmit, or share any personal data. There is no account, no sign-in, and no analytics.
+**None.** Lock Keyboard does not collect, transmit, or share any personal data. There is no account, no sign-in, and no analytics.
 
 ## 2. Where data is stored
 
@@ -16,7 +16,8 @@ All app data and settings stay **locally on your Mac**. We do not run a server, 
 
 | Permission | Used? | Purpose |
 |---|---|---|
-| Accessibility | ✅ | Required to move and resize other apps' windows — the one permission it needs |
+| Accessibility | ❌ | Not used — Lock Keyboard is fully sandboxed |
+| Input Monitoring | ❌ | Not used |
 | Network / Internet | ❌ | Runs fully offline |
 | Location | ❌ | Not used |
 | Camera | ❌ | Not used |
