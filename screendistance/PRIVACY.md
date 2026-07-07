@@ -1,16 +1,35 @@
 # Privacy Policy — Screen Distance
 
-_Last updated: July 1, 2026_
+_Last updated: July 7, 2026_
 
 Screen Distance is designed to be completely private. Everything happens on your
 device. We do not collect, transmit, or store any of your data on any server.
 
-## 1. Camera
+## 1. Camera & Face Data (TrueDepth API)
 
-Screen Distance uses the front TrueDepth camera **only** to measure how far your
-face is from the screen, in real time. **No photo or video is ever recorded,
-saved, or transmitted.** The camera feed is used solely to read the
-face-to-screen distance and is never written to disk or sent anywhere.
+Screen Distance uses the front TrueDepth camera and Apple's ARKit face-tracking
+API **only** to measure how far your face is from the screen, in real time.
+
+**Collection.** The only value the app derives from the TrueDepth API is the
+current distance (a single number, in centimeters) between your face and the
+device screen. The app does not capture, process, or retain photos, videos,
+depth maps, face meshes, facial geometry, facial expressions, or any biometric
+identifier. **No photo or video is ever recorded, saved, or transmitted.**
+
+**Use.** The face-to-screen distance number is used solely to (a) show your
+current distance on screen, (b) warn you when you are sitting too close, and
+(c) build your local, on-device eye-care statistics (see Section 3). It is not
+used for identification, authentication, advertising, or any other purpose.
+
+**Storage & retention.** Face data is processed in memory in real time and is
+never written to disk. It is discarded immediately after the distance number is
+computed. Only aggregate distance statistics (numbers, never images or face
+data) are stored, and only locally on your device; they are deleted when you
+delete the app.
+
+**Sharing & disclosure.** Face data — and the distance derived from it — is
+never shared with, sold to, or disclosed to any third party, and never leaves
+your device. The app makes no network requests of any kind.
 
 ## 2. Data We Collect
 
