@@ -28,4 +28,4 @@ Yes — everything runs locally with no internet connection.
 ## Contact
 
 - **Bug reports / feature requests**: [open an issue](https://github.com/fengyiqicoder/open/issues)
-- **Email**: fengyiqicoder@gmail.com
+- **Email**: annaaiannaaiannaai@gmail.com

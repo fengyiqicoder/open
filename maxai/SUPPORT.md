@@ -33,4 +33,4 @@ The assistant replies in the language you write in. The app's interface is avail
 
 ## Contact
 
-Email **fengyiqicoder@gmail.com** and we'll get back to you.
+Email **annaaiannaaiannaai@gmail.com** and we'll get back to you.

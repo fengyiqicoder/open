@@ -53,5 +53,5 @@ new "Last updated" date.
 
 ## 9. Contact
 
-Questions about privacy? Email **fengyiqicoder@gmail.com** or open an issue at
+Questions about privacy? Email **annaaiannaaiannaai@gmail.com** or open an issue at
 <https://github.com/fengyiqicoder/open/issues>.

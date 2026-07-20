@@ -37,4 +37,4 @@ We may update this policy as the app evolves; the date above reflects the latest
 
 ## 7. Contact
 
-Questions? Open an issue at [github.com/fengyiqicoder/open/issues](https://github.com/fengyiqicoder/open/issues) or email fengyiqicoder@gmail.com.
+Questions? Open an issue at [github.com/fengyiqicoder/open/issues](https://github.com/fengyiqicoder/open/issues) or email annaaiannaaiannaai@gmail.com.

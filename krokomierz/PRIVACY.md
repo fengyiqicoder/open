@@ -75,7 +75,7 @@ We may update this policy as the app evolves. Material changes will be announced
 
 ### 9. Contact
 
-Questions or concerns about privacy? Open an issue at [github.com/fengyiqicoder/appmatemax/issues](https://github.com/fengyiqicoder/appmatemax/issues) or email fengyiqicoder@gmail.com.
+Questions or concerns about privacy? Open an issue at [github.com/fengyiqicoder/appmatemax/issues](https://github.com/fengyiqicoder/appmatemax/issues) or email annaaiannaaiannaai@gmail.com.
 
 ---
 
@@ -148,4 +148,4 @@ Możemy aktualizować tę politykę wraz z rozwojem aplikacji. O istotnych zmian
 
 ### 9. Kontakt
 
-Pytania lub wątpliwości dotyczące prywatności? Otwórz zgłoszenie na [github.com/fengyiqicoder/appmatemax/issues](https://github.com/fengyiqicoder/appmatemax/issues) lub napisz na fengyiqicoder@gmail.com.
+Pytania lub wątpliwości dotyczące prywatności? Otwórz zgłoszenie na [github.com/fengyiqicoder/appmatemax/issues](https://github.com/fengyiqicoder/appmatemax/issues) lub napisz na annaaiannaaiannaai@gmail.com.

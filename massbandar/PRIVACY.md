@@ -100,4 +100,4 @@ guarantee above.
 
 Questions or concerns about privacy? Open an issue at
 [github.com/fengyiqicoder/open/issues](https://github.com/fengyiqicoder/open/issues)
-or email fengyiqicoder@gmail.com.
+or email annaaiannaaiannaai@gmail.com.

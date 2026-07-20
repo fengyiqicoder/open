@@ -27,4 +27,4 @@ No. The app never records or transmits the links you open. See our [Privacy Poli
 
 ## Contact
 
-Email **fengyiqicoder@gmail.com** and we'll get back to you.
+Email **annaaiannaaiannaai@gmail.com** and we'll get back to you.

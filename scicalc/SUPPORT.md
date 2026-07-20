@@ -70,4 +70,4 @@ iOS 17 or later. iPhone only (iPad version coming).
 ## Contact
 
 - **Bug reports / feature requests**: [open an issue](https://github.com/fengyiqicoder/appmatemax/issues)
-- **Email**: fengyiqicoder@gmail.com
+- **Email**: annaaiannaaiannaai@gmail.com

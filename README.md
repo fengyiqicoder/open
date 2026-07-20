@@ -12,4 +12,4 @@ documents required to be publicly accessible by App Store / Play Store reviewers
 ## Contact
 
 Open an [issue](https://github.com/fengyiqicoder/open/issues) for any support
-or privacy question, or email fengyiqicoder@gmail.com.
+or privacy question, or email annaaiannaaiannaai@gmail.com.

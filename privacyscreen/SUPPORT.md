@@ -90,4 +90,4 @@ Not yet. Planned for a future update.
 
 - **Bug reports / feature requests**: [open an issue](https://github.com/fengyiqicoder/appmatemax/issues)
 - **In-app**: tap the gear icon → Send Feedback
-- **Email**: fengyiqicoder@gmail.com
+- **Email**: annaaiannaaiannaai@gmail.com

@@ -39,7 +39,7 @@ Tak. Krokomierz jest dostępny bezpłatnie i nie wyświetla reklam.
 ### Kontakt
 
 - **Zgłoszenia błędów / propozycje funkcji**: [otwórz zgłoszenie](https://github.com/fengyiqicoder/appmatemax/issues)
-- **E-mail**: fengyiqicoder@gmail.com
+- **E-mail**: annaaiannaaiannaai@gmail.com
 
 ---
 
@@ -78,4 +78,4 @@ Yes. Krokomierz is available for free and does not show ads.
 ### Contact
 
 - **Bug reports / feature requests**: [open an issue](https://github.com/fengyiqicoder/appmatemax/issues)
-- **Email**: fengyiqicoder@gmail.com
+- **Email**: annaaiannaaiannaai@gmail.com

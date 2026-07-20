@@ -58,4 +58,4 @@ children, and is intended to help protect young eyes from screen strain.
 
 ## 7. Contact
 
-Questions? Email **fengyiqicoder@gmail.com**.
+Questions? Email **annaaiannaaiannaai@gmail.com**.

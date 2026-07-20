@@ -56,4 +56,4 @@ Yes, with optional premium features. We never show ads.
 
 - **Bug reports / feature requests**: [open an issue](https://github.com/fengyiqicoder/appmatemax/issues)
 - **In-app**: tap Settings → Send Feedback
-- **Email**: fengyiqicoder@gmail.com
+- **Email**: annaaiannaaiannaai@gmail.com
